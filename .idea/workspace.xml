@@ -2,6 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="09261f79-69d9-4fb2-9f07-c464d96e3ce5" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/iron-data-table.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower.json" afterPath="$PROJECT_DIR$/bower.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iron-data-table.html" afterPath="$PROJECT_DIR$/iron-data-table.html" />
     </list>
     <ignored path="iron-data-table.iws" />
@@ -23,11 +29,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="iron-data-table.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="iron-data-table.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/iron-data-table.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="514" column="8" selection-start-line="514" selection-start-column="8" selection-end-line="514" selection-end-column="8" />
+            <state relative-caret-position="411">
+              <caret line="516" column="33" selection-start-line="516" selection-start-column="33" selection-end-line="516" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bower.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/bower.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="759">
+              <caret line="60" column="19" selection-start-line="60" selection-start-column="19" selection-end-line="60" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -64,6 +80,7 @@
         <option value="$PROJECT_DIR$/data-table-column.html" />
         <option value="$PROJECT_DIR$/data-table-cell.html" />
         <option value="$PROJECT_DIR$/iron-data-table.html" />
+        <option value="$PROJECT_DIR$/bower.json" />
       </list>
     </option>
   </component>
@@ -195,12 +212,12 @@
       <option name="presentableId" value="Default" />
       <updated>1476105624687</updated>
       <workItem from="1476105626140" duration="5108000" />
-      <workItem from="1478802033376" duration="36000" />
+      <workItem from="1478802033376" duration="84000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5144000" />
+    <option name="totallyTimeSpent" value="5192000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="24" width="1920" height="1056" extended-state="6" />
@@ -307,8 +324,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/iron-data-table.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="514" column="8" selection-start-line="514" selection-start-column="8" selection-end-line="514" selection-end-column="8" />
+        <state relative-caret-position="411">
+          <caret line="516" column="33" selection-start-line="516" selection-start-column="33" selection-end-line="516" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="759">
+          <caret line="60" column="19" selection-start-line="60" selection-start-column="19" selection-end-line="60" selection-end-column="19" />
           <folding />
         </state>
       </provider>
